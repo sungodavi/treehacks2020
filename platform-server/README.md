@@ -1,0 +1,1 @@
+mongo: mongodb://treehacksmongo:2Yxnm3vzZN8BPHkzJxV4zlSer6aNkS5eTnUR64kZsj0pJSWdVk3lW9DtxDJcVKPdhzVClKL4H8fPYsAyKQnzPA==@treehacksmongo.documents.azure.com:10255/?ssl=true&replicaSet=globaldb
